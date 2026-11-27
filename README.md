@@ -1,8 +1,8 @@
 # Ink & Interface — Design Agency Homepage
 A responsive, single-page homepage for a fictional creative design studio, built as a Next.js internship assignment.
 
-- **Live demo:** `<https://ink-and-interface-internship.vercel.app`
-- **Repository:** `<https://github.com/priyankapri24/ink-and-interface-internship`
+- **Live demo:** `https://ink-and-interface-internship.vercel.app`
+- **Repository:** `https://github.com/priyankapri24/ink-and-interface-internship`
 
 ## Sections
 
